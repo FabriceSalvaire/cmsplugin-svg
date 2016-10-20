@@ -1,0 +1,6 @@
+{
+    "package-name": "cmsplugin-svg",
+    "installed-apps": [
+	"cmsplugin_svg"
+    ]
+}

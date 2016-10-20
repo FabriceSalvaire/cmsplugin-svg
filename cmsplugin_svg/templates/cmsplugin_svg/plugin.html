@@ -1,0 +1,7 @@
+{% load cms_tags %}
+{% spaceless %}
+<{{ instance.tag_type }} {% if instance.id_name %}id="{{ instance.id_name }}"{% endif %} class="{% if instance.additional_class_names %}{{ instance.get_additional_class_names }}{% endif %}" style="{% if instance.alignment %}text-align: {{ instance.alignment }};{% endif %}">
+    <img src="{{ instance.svg_image.url }}" alt="{% if instance.alt %}{{ instance.alt }}{% endif %}"{% if instance.width %} width="{{ instance.width }}"{% endif %}{% if instance.height %} height="{{ instance.height }}"{% endif %} />
+    {% if instance.caption_text %}<figcaption>{{ caption_text }}</figcaption>{% endif %}
+</{{ instance.tag_type }}>
+{% endspaceless %}
