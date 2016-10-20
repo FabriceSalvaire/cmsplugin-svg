@@ -7,7 +7,7 @@
 .. image:: https://img.shields.io/pypi/status/cmsplugin-svg.svg
 	   :target: https://pypi.python.org/pypi/cmsplugin-svg
 
-.. image:: https://img.shields.io/pypi/pyversion/cmsplugin-svg.svg
+.. image:: https://img.shields.io/pypi/pyversions/cmsplugin-svg.svg
 	   :target: https://pypi.python.org/pypi/cmsplugin-svg
 
 .. image:: https://img.shields.io/pypi/l/cmsplugin-svg.svg
