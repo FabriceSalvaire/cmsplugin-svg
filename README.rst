@@ -11,7 +11,7 @@
 	   :target: https://pypi.python.org/pypi/cmsplugin-svg
 
 .. image:: https://img.shields.io/pypi/l/cmsplugin-svg.svg
-	   :target: https://pypi.python.org/pypi/cmsplugin-svg
+	   :target: https://raw.githubusercontent.com/FabriceSalvaire/cmsplugin-svg/master/LICENSE.txt
 
 =====================
 Django CMS SVG Plugin
