@@ -2,16 +2,16 @@
 	   :target: https://badge.fury.io/py/cmsplugin-svg
 
 .. image:: https://img.shields.io/pypi/dm/cmsplugin-svg.svg
-	   :target:
+	   :target: https://pypi.python.org/pypi/cmsplugin-svg
 
 .. image:: https://img.shields.io/pypi/status/cmsplugin-svg.svg
-	   :target:
+	   :target: https://pypi.python.org/pypi/cmsplugin-svg
 
 .. image:: https://img.shields.io/pypi/pyversion/cmsplugin-svg.svg
-	   :target:
+	   :target: https://pypi.python.org/pypi/cmsplugin-svg
 
 .. image:: https://img.shields.io/pypi/l/cmsplugin-svg.svg
-	   :target:
+	   :target: https://pypi.python.org/pypi/cmsplugin-svg
 
 =====================
 Django CMS SVG Plugin
