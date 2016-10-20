@@ -17,12 +17,12 @@
 Django CMS SVG Plugin
 =====================
 
-Django CMS SVG Plugin provides a plugin that allows you to use SVG image.
+`Django CMS <https://www.django-cms.org>`_ SVG Plugin provides a plugin that allows you to use `SVG <https://www.w3.org/Graphics/SVG/>`_ image.
 
 Installation
 ------------
 
-This plugin requires `django CMS` 3.0.12 or higher to be properly installed.
+This plugin requires django CMS 3.0.12 or higher to be properly installed.
 
 * Within your ``virtualenv`` run ``pip install cmsplugin-svg``
 * Add ``'cmsplugin_svg'`` to your ``INSTALLED_APPS`` setting.
