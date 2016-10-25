@@ -27,7 +27,7 @@ setup(
     description='SVG Plugin for django CMS',
     author='Fabrice Salvaire',
     author_email='fabrice.salvaire@orange.fr',
-    url='https://github.com/FabriceSalvaire/cmsplugin_svg',
+    url='https://github.com/FabriceSalvaire/cmsplugin-svg',
     packages=find_packages(),
     license='LICENSE.txt',
     platforms=['OS Independent'],
