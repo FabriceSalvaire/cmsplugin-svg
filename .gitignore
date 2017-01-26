@@ -1,0 +1,5 @@
+*~
+__pycache__
+cmsplugin_svg.egg-info
+dist
+# cmsplugin_svg/migrations/0*.py
