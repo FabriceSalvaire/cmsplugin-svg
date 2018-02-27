@@ -16,6 +16,8 @@ class SvgImagePlugin(CMSPluginBase):
     model = SvgImage
     name = _("SVG Image")
     render_template = "cmsplugin_svg/plugin.html"
+    text_enabled = True
+    text_editor_preview = False
 
     # Editor fieldsets
     fieldsets = (
