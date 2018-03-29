@@ -22,6 +22,7 @@ class SvgImage(CMSPlugin):
     """
 
     TAG_TYPE_CHOICES = (
+        ('', ''),
         ('figure', 'figure'),
         # ('div', 'div'),
     )
@@ -56,7 +57,8 @@ class SvgImage(CMSPlugin):
         verbose_name=_('tag Type'),
         max_length=50,
         choices=TAG_TYPE_CHOICES,
-        default=TAG_TYPE_CHOICES[0][0],
+        null=True,
+        blank=True,
     )
 
     svg_image = FilerFileField(
