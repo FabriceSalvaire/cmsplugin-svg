@@ -46,6 +46,7 @@ class SvgImage(CMSPlugin):
         max_length=128,
         blank=True,
         help_text=_('Optional label for this plugin.'),
+        on_delete=models.CASCADE
     )
 
     id_name = models.CharField(
