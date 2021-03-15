@@ -39,6 +39,7 @@ class SvgImage(CMSPlugin):
         CMSPlugin,
         related_name='+',
         parent_link=True,
+        on_delete=models.CASCADE,
     )
 
     label = models.CharField(
